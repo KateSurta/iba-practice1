@@ -1,0 +1,9 @@
+﻿Build started 21.03.2016 13:09:44.
+     1>Project "F:\structure\structure\structure\struct\struct\struct.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         struct.vcxproj -> F:\structure\structure\structure\struct\Debug\struct.exe
+     1>Done Building Project "F:\structure\structure\structure\struct\struct\struct.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.17
